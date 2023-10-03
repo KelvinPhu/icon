@@ -111,3 +111,20 @@
 <br>
 
 <img width="30px" alt="whatSapp" src="https://github.com/KelvinPhu/icon/assets/102346766/491466e0-d405-4e65-9b38-a6ff8a21c2f4" />
+
+<br>
+<br>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KelvinPhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KelvinPhu&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPhu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KelvinPhu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?style=for-the-badge&logo=whatsapp)](https://whatsapp.com)
+
