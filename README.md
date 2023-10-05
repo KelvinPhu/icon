@@ -41,28 +41,7 @@
 
 <img width="30px" alt="reddit" src="https://github.com/KelvinPhu/icon/assets/102346766/0e0871d9-daa4-4203-81f5-359198e5b329" />
 
-<br>
-<br>
 
-<img width="30px" alt="whatSapp" src="https://github.com/KelvinPhu/icon/assets/102346766/73b1d0eb-a4d3-49aa-aced-acf45347fbfd" />
-
-<br>
-<br>
-
-<img width="30px" alt="telegram" src="https://github.com/KelvinPhu/icon/assets/102346766/ba60cd7a-4938-495d-ba22-ff614bb2a74f" />
-
-<br>
-<br>
-
-<img width="30px" alt="gmail" src="https://github.com/KelvinPhu/icon/assets/102346766/0de67174-56cc-413d-8e0a-8c862d78d6cd" />
-
-<br>
-<br>
-
-<img width="30px" alt="outlock" src="https://github.com/KelvinPhu/icon/assets/102346766/491466e0-d405-4e65-9b38-a6ff8a21c2f4" />
-
-<br>
-<br>
 
 
 <details> 
