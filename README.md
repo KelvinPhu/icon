@@ -1,9 +1,6 @@
 # icon
 
-<img width="30px" alt="Youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/458b8acc-670c-49f5-a8cb-fe5dafac081f" />
 
-<br>
-<br>
 
 <img width="30px" alt="Hibernate" src="https://github.com/KelvinPhu/icon/assets/102346766/f444cbe5-f84b-4bad-8466-5c1180b269d5" />
 
@@ -41,26 +38,6 @@
 <br>
 
 <img width="30px" alt="apple" src="https://github.com/KelvinPhu/icon/assets/102346766/a2a7b092-b355-4659-a507-b4d009931ae7" />
-
-<br>
-<br>
-
-<img width="30px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/7c331bbd-7acc-40ed-8012-4507612a19f0" />
-
-<br>
-<br>
-
-<img width="30px" alt="youtube" src="https://github.com/KelvinPhu/icon/assets/102346766/b0712e5b-e4e9-412e-83b7-734106a6b048" />
-
-<br>
-<br>
-
-<img width="30px" alt="instagram" src="https://github.com/KelvinPhu/icon/assets/102346766/abd60807-9b54-4b3e-b37b-60a0d86c8575" />
-
-<br>
-<br>
-
-<img width="30px" alt="tiktok" src="https://github.com/KelvinPhu/icon/assets/102346766/b5ac7e04-10bf-4499-ad57-d509d3a29a1f" />
 
 <br>
 <br>
