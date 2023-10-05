@@ -1,17 +1,6 @@
 # icon
 
 
-
-<img width="30px" alt="Hibernate" src="https://github.com/KelvinPhu/icon/assets/102346766/f444cbe5-f84b-4bad-8466-5c1180b269d5" />
-
-<br>
-<br>
-
-<img width="30px" alt="JDBC" src="https://github.com/KelvinPhu/icon/assets/102346766/655906b4-2a8d-4fe1-878f-1e36dfb56d07" />
-
-<br>
-<br>
-
 <img width="30px" alt="eclipse" src="https://github.com/KelvinPhu/icon/assets/102346766/abe88a64-f7af-4c12-b79a-d6f9497d70df" />
 
 <br>
