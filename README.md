@@ -11,10 +11,6 @@
 <br>
 <br>
 
-<img width="30px" alt="upwork" src="https://github.com/KelvinPhu/icon/assets/102346766/12cf2d12-9996-4dc1-ab04-ba48d468bcc1" />
-
-<br>
-<br>
 
 
 
