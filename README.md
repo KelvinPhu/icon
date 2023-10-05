@@ -6,15 +6,7 @@
 <br>
 <br>
 
-<img width="30px" alt="leetcode" src="https://github.com/KelvinPhu/icon/assets/102346766/edd0d0fc-680e-4b54-9990-efb3132be9cc" />
 
-<br>
-<br>
-
-<img width="30px" alt="hackerRank" src="https://github.com/KelvinPhu/icon/assets/102346766/ffd9d86d-61b9-4546-b88c-ef07c2088afb" />
-
-<br>
-<br>
 
 <img width="30px" alt="Github" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
 
