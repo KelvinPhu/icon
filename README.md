@@ -7,16 +7,12 @@
 <br>
 
 
-
 <img width="30px" alt="Github" src="https://github.com/KelvinPhu/icon/assets/102346766/4bd3e5c9-7eaa-4b7a-ac3a-09665cf3d0aa" />
 
 <br>
 <br>
 
-<img width="30px" alt="codeChief" src="https://github.com/KelvinPhu/icon/assets/102346766/b279d714-8ac3-430c-bfbf-960a949dcab7" />
 
-<br>
-<br>
 
 <img width="30px" alt="apple" src="https://github.com/KelvinPhu/icon/assets/102346766/a2a7b092-b355-4659-a507-b4d009931ae7" />
 
