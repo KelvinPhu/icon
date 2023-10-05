@@ -1,21 +1,3 @@
-# icon
-
-
-<img width="30px" alt="eclipse" src="https://github.com/KelvinPhu/icon/assets/102346766/abe88a64-f7af-4c12-b79a-d6f9497d70df" />
-
-<br>
-<br>
-
-<img width="30px" alt="apple" src="https://github.com/KelvinPhu/icon/assets/102346766/a2a7b092-b355-4659-a507-b4d009931ae7" />
-
-<br>
-<br>
-
-
-
-
-
-
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
